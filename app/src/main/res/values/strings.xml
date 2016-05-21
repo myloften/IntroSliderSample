@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IntroSliderSample</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Lonely</string>
+    <string name="slide_2_title">Meet</string>
+    <string name="slide_3_title">Fall in love at first sight</string>
+    <string name="slide_4_title">Both fall in love</string>
+    <string name="slide_5_title">Together forever</string>
+
+    <string name="play_again">play again</string>
+</resources>
